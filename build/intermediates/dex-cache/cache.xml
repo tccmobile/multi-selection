@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_7ca18ca768c56717420b3a1cf51785afc1e4e48b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ef445bfdc3d0d7e1a3d9ee15670a50da2860ad15">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ed6b0d56acce1e15017bc8d120a6501de7c202a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90b0fbd20245e3bf87e42e6749a9f9d44ca8984a/classes.dex" />
+    </item>
+
+</items>

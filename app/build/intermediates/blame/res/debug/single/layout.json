@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/merged/debug/layout/rowview.xml",
+        "source": "/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/src/main/res/layout/rowview.xml"
+    },
+    {
+        "merged": "/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/src/main/res/layout/activity_main.xml"
+    }
+]

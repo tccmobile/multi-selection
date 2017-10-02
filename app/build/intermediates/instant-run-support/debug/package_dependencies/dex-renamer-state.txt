@@ -1,0 +1,4 @@
+#Mon Oct 02 13:45:42 CDT 2017
+base.0=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_7ca18ca768c56717420b3a1cf51785afc1e4e48b
+renamed.0=classes.dex
+file.0=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_7ca18ca768c56717420b3a1cf51785afc1e4e48b/classes.dex

@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Oct 02 13:45:42 CDT 2017
+2.base=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ed6b0d56acce1e15017bc8d120a6501de7c202a
+5.file=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_/res/layout/rowview.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=DEX
+4.base=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.base=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90b0fbd20245e3bf87e42e6749a9f9d44ca8984a/classes.dex
+1.set=DEX
+7.base=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ed6b0d56acce1e15017bc8d120a6501de7c202a/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90b0fbd20245e3bf87e42e6749a9f9d44ca8984a
+4.file=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.set=ANDROID_RESOURCE

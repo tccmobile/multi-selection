@@ -1,0 +1,7 @@
+#Mon Oct 02 13:45:42 CDT 2017
+base.0=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ed6b0d56acce1e15017bc8d120a6501de7c202a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90b0fbd20245e3bf87e42e6749a9f9d44ca8984a/classes.dex
+base.1=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90b0fbd20245e3bf87e42e6749a9f9d44ca8984a
+file.0=/Users/pastorwill/Desktop/com.vogella.android.listview.selection.multi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ed6b0d56acce1e15017bc8d120a6501de7c202a/classes.dex
